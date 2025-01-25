@@ -201,6 +201,13 @@ server/
     </tr>
 </table>
 <table>
+    <tr>Home Page</tr>
+    <tr>
+        <td><img src="assets/new-ss/Homepage1.png" /> </td>
+        <td><img src="assets/new-ss/HomePage2.png" /></td>
+    </tr>
+</table>
+<table>
     <tr>Dashboard</tr>
     <tr>
         <td><img src="assets/new-ss/Dashboard1.png" /> </td>
@@ -211,7 +218,8 @@ server/
 <table>
     <tr>Assessment</tr>
     <tr>
-        <td><img src="assets/assessment.png" /> </td>
+        <td><img src="assets/new-ss/assessment.png" /> </td>
+        <td><img src="assets/new-ss/Assessment2.png" /> </td>
     </tr>
 </table>
 <table>
