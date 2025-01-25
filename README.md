@@ -195,7 +195,7 @@ server/
 <table>
     <tr>Authentication</tr>
     <tr>
-        <td><img src="assets/Register.png" /> </td>
+        <td><img src="assets/new-ss/signup.png" /> </td>
         <td><img src="assets/Signin.png" /></td>
         <td><img src="assets/Forgot.png" /></td>
     </tr>
