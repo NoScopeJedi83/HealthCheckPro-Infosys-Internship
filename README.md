@@ -203,8 +203,9 @@ server/
 <table>
     <tr>Dashboard</tr>
     <tr>
-        <td><img src="assets/dashboard.png" /> </td>
-        <td><img src="assets/history.png" /></td>
+        <td><img src="assets/new-ss/Dashboard1.png" /> </td>
+        <td><img src="assets/new-ss/Dashboard2.png" /></td>
+        <td><img src="assets/new-ss/Dashboard3.png" /></td>
     </tr>
 </table>
 <table>
