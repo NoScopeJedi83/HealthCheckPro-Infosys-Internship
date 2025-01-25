@@ -208,7 +208,7 @@ server/
     </tr>
 </table>
 <table>
-    <tr>Dashboard</tr>
+    <tr>Dashboard/Report</tr>
     <tr>
         <td><img src="assets/new-ss/Dashboard1.png" /> </td>
         <td><img src="assets/new-ss/Dashboard2.png" /></td>
@@ -223,10 +223,8 @@ server/
     </tr>
 </table>
 <table>
-    <tr>Report</tr>
+    <tr>Leaderboard</tr>
     <tr>
-        <td><img src="assets/report1.png" /> </td>
-        <td><img src="assets/report2.png" /></td>
-        <td><img src="assets/report3.png" /></td>
+        <td><img src="assets/new-ss/Leaderboard.png" /> </td>
     </tr>
 </table>
