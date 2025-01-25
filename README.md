@@ -196,8 +196,8 @@ server/
     <tr>Authentication</tr>
     <tr>
         <td><img src="assets/new-ss/signup.png" /> </td>
-        <td><img src="assets/Signin.png" /></td>
-        <td><img src="assets/Forgot.png" /></td>
+        <td><img src="assets/new-ss/singin.png" /></td>
+        <td><img src="assets/new-ss/OTPVerification.png" /></td>
     </tr>
 </table>
 <table>
